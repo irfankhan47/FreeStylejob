@@ -1,2 +1,0 @@
-# FreeStylejob
-Git-Jenkins
